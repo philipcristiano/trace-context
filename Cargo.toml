@@ -13,5 +13,5 @@ categories = ["data-structures", "parser-implementations", "parsing", "value-for
 edition = "2018"
 
 [dependencies]
-http = "0.1.17"
+http = "1"
 rand = "0.6.5"
